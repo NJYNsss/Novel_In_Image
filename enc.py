@@ -26,6 +26,6 @@ def main(filename: str):
     im.save("{}_layout.bmp".format('.'.join(filename.split('.')[:-1])))
 
 if __name__ == '__main__':
-    main('三体全集.txt')
+    main("________.txt")
 
 #(index & 0xFF0000) >> 16
